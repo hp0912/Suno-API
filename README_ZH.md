@@ -9,10 +9,6 @@
 - 全异步，速度快，适合后期扩展
 - 代码简单，易于维护，方便二次开发
 
-### 对应的套壳
-
-[https://github.com/Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)
-
 ### 使用
 
 #### 配置
@@ -49,8 +45,3 @@ docker compose build && docker compose up
 
 ![docs](./images/docs.png)
 
-
-#### 合作交流
-
-备注进群：拉你进入 音乐生成行业交流群。
-<img src="./images/wechat.jpg" width="382px" height="511px" />
